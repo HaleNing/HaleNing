@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HaleNing</h1>
 <h3 align="center">A Software Engineer from Asia China</h3>
 
-- 🔭 I’m currently working on [compiler_with_go](https://github.com/HaleNing/compiler_with_go)
+- 🔭 I’m currently working on [Ning_JobBoard](https://github.com/HaleNing/Ning_JobBoard)
 
 - 🌱 I’m currently learning **kubernetes**
 
