@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ning_JobBoard](https://github.com/HaleNing/Ning_JobBoard)
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **activiti engine**
 
 - 💬 Ask me about **Java Python MySQL**
 
