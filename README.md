@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from Asia China</h3>
 
 
-- 🌱 I’m currently learning **activiti engine**
+- 🌱 I’m currently working as **Platform Engineer**
 
 - 💬 Ask me about **Java Python MySQL**
 
