@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm HaleNing</h1>
 <h3 align="center">A Software Engineer from Asia China</h3>
 
-- 🔭 I’m currently working on [Ning_JobBoard](https://github.com/HaleNing/Ning_JobBoard)
 
 - 🌱 I’m currently learning **activiti engine**
 
